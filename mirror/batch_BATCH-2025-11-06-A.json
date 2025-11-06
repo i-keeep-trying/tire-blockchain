@@ -1,0 +1,13 @@
+{
+  "contract": "0x5FbDB2315678afecb367f032d93F642f64180aa3",
+  "batchId": "BATCH-2025-11-06-A",
+  "exportedAt": "2025-11-05T19:56:25.469Z",
+  "tyres": [
+    {
+      "tireId": "TIREC01",
+      "owner": "0x976EA74026E726554dB657fA54763abd0C3a0aa9",
+      "state": 4,
+      "historyLength": 21
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+# dependencies
+node_modules/
+
+# hardhat & build
+cache/
+artifacts/
+typechain-types/
+
+# env & secrets
+.env
+.env.local
+.env.*.local
+
+# local deployments
+deployments/local.json
+
+# OS/Editor
+.DS_Store
+Thumbs.db
+*.log
+
+# accidental ghost on Windows
+NUL
